@@ -2,5 +2,5 @@
 - 👀 Favourite programming language - java , Python
 - 🌱 Done project on basic Core java ,SPRING BOOT and Simple Rest API's
 - 💞️ Learning Artificial Intellegence
-- 📫 Hava Knowldge on SQL[ Oracle Database 11g Express Edition ]
+- 📫 Have a Knowldge on SQL[ Oracle Database 11g Express Edition ]
 
